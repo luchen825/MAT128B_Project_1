@@ -1,0 +1,14 @@
+Authors:
+Lucy Chen
+Zhuocheng Ye
+Rick Alarcon
+
+Pushing Git via Terminal:
+git clone https://github.com/luchen825/MAT128B_Project_1.git
+ENTER USER NAME AND PASS
+git add YOUR_FILE
+git commit -m "YOUR_MESSAGE"
+git push origin master
+
+Pulling Git via Terminal:
+git pull --all
