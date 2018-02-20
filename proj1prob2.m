@@ -1,7 +1,7 @@
-%% MAT128B Project 1
-% Selma Adams, Lucy Chen, Zhuocheng Ye, Rick Alarcon
+%% same code as part 1, but different function
 
-phi = inline('z^2 - 1.25');
+%c = 0.36 + 0.1i
+phi = inline('z^2 + 0.36 + 0.1*1i');
 fixpt1 = (1 + sqrt(6))/2;
 fixpt2 = (1 - sqrt(6))/2;
 
@@ -41,6 +41,4 @@ for j=1:141
  
     image([-1.8 1.8],[-0.7 0.7],M),
     axis xy
-
-    
-    
+ 
