@@ -1,4 +1,4 @@
-
+% Part V
 % if the output is a fractal, it is a connected Julia set 
 % because the initial z value is 0;
 c = 0.36 + 0.1*1i;
