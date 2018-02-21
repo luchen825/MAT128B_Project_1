@@ -1,4 +1,4 @@
-% same code as part 1, but different function
+
 %WHEN THE ORBIT OF 0 IS BOUNDED THEN THE JULIA
 % SET IS CONNECTED
 % SO IF THE ORBIT IS BOUNDED, SET OF POINTS WILL
