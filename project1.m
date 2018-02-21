@@ -1,5 +1,10 @@
 %% MAT128B Project 1
 % Selma Adams, Lucy Chen, Zhuocheng Ye, Rick Alarcon
+% Part 1 and 2: Rick, Zhuocheng, and Lucy
+% Part 3: Zhuocheng
+% Part 4 and 5: Lucy
+% Part 6: Rick
+% Part 7 and 8: Selma
 
 phi = inline('z^2 - 1.25');
 fixpt1 = (1 + sqrt(6))/2;
